@@ -1,0 +1,169 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Fresca Vibe",
+  "type": "light",
+  "colors": {
+    "editor.background": "#F3FFF9",
+    "editor.foreground": "#04363A",
+    "editorLineNumber.foreground": "#87C7CD",
+    "editorLineNumber.activeForeground": "#6A9D00",
+    "editorCursor.foreground": "#6A9D00",
+    "editor.selectionBackground": "#C8F5E4",
+    "editor.inactiveSelectionBackground": "#D9F9ED",
+    "editor.wordHighlightBackground": "#E3FBF2",
+    "editor.wordHighlightStrongBackground": "#C8F5E4",
+    "editor.lineHighlightBackground": "#E9FCF5",
+
+    "activityBar.background": "#E0F9F3",
+    "activityBar.foreground": "#04363A",
+    "activityBarBadge.background": "#F6FF9C",
+    "activityBarBadge.foreground": "#04363A",
+
+    "sideBar.background": "#E9FCF7",
+    "sideBar.foreground": "#15545A",
+    "sideBar.border": "#B6E5DE",
+
+    "statusBar.background": "#D5F6EE",
+    "statusBar.foreground": "#04363A",
+    "statusBar.debuggingBackground": "#B8EAD9",
+
+    "titleBar.activeBackground": "#E0F9F3",
+    "titleBar.activeForeground": "#04363A",
+
+    "tab.activeBackground": "#F3FFF9",
+    "tab.inactiveBackground": "#E0F9F3",
+    "tab.activeForeground": "#145B61",
+    "tab.inactiveForeground": "#6AA5AA",
+
+    "badge.background": "#F6FF9C",
+    "badge.foreground": "#04363A",
+
+    "button.background": "#6EE7F5",
+    "button.foreground": "#04363A",
+    "button.hoverBackground": "#4FB2FF",
+
+    "focusBorder": "#6A9D00",
+    "editorGroup.border": "#C2E9E1",
+    "panel.border": "#C2E9E1",
+
+    "scrollbarSlider.background": "#B8EAD9AA",
+    "scrollbarSlider.hoverBackground": "#87C7CDAA",
+
+    "list.focusBackground": "#D9F9ED",
+    "list.hoverBackground": "#E9FCF7",
+    "list.activeSelectionBackground": "#C8F5E4",
+    "list.inactiveSelectionBackground": "#E3FBF2",
+
+    "notificationCenterHeader.background": "#E0F9F3",
+    "notifications.background": "#F3FFF9",
+
+    "editorBracketMatch.border": "#6A9D0088",
+    "editorIndentGuide.background": "#D3EEE8",
+    "editorIndentGuide.activeBackground": "#87C7CD",
+
+    "terminal.ansiBlack": "#0A2225",
+    "terminal.ansiRed": "#D64545",
+    "terminal.ansiGreen": "#7BB731",
+    "terminal.ansiYellow": "#D6B200",
+    "terminal.ansiBlue": "#2780D8",
+    "terminal.ansiMagenta": "#C552C5",
+    "terminal.ansiCyan": "#1FA8B8",
+    "terminal.ansiWhite": "#F7FFFF",
+    "terminal.background": "#F3FFF9",
+    "terminal.foreground": "#04363A"
+  },
+  "semanticHighlighting": true,
+  "tokenColors": [
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#4B6C6E",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "meta.definition.variable"
+      ],
+      "settings": {
+        "foreground": "#E9FEFF"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#F6FF9C",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "constant.other.symbol",
+        "punctuation.definition.string"
+      ],
+      "settings": {
+        "foreground": "#C7F65C"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric",
+        "constant.language",
+        "constant.character"
+      ],
+      "settings": {
+        "foreground": "#FFE66D"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "keyword.other.special-method"
+      ],
+      "settings": {
+        "foreground": "#6EE7F5"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "support.type",
+        "support.class",
+        "entity.name.class",
+        "entity.other.inherited-class"
+      ],
+      "settings": {
+        "foreground": "#4FB2FF"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.tag",
+        "meta.tag",
+        "support.type.property-name"
+      ],
+      "settings": {
+        "foreground": "#FF9DFF"
+      }
+    },
+    {
+      "scope": [
+        "variable.parameter",
+        "meta.parameters"
+      ],
+      "settings": {
+        "foreground": "#E9FEFF"
+      }
+    }
+  ]
+}
