@@ -1,6 +1,6 @@
 {
-  "name": "fresca-vibe-theme",
-  "displayName": "Fresca Vibe Theme",
+  "name": "fresca",
+  "displayName": "Fresca",
   "description": "A bright, fizzy, citrus soda-inspired theme that makes VS Code feel like an ice-cold drink.",
   "version": "0.0.1",
   "publisher": "your-name-here",
@@ -13,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Fresca Vibe",
+        "label": "Fresca",
         "uiTheme": "vs",
         "path": "./themes/fresca-vibe-color-theme.json"
       }

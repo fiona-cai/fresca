@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Fresca Vibe",
+  "name": "Fresca",
   "type": "light",
   "colors": {
     "editor.background": "#F3FFF9",

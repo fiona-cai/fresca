@@ -1,6 +1,6 @@
-## Fresca Vibe Theme
+## Fresca
 
-A VS Code theme that makes your editor feel like an ice‑cold citrus soda: crisp dark can, fizzy aqua highlights, and neon‑lime pops for important things.
+A VS Code theme that makes your editor feel like an ice‑cold citrus soda: crisp can, fizzy highlights, and citrusy pops for important things.
 
 ### Install locally
 
@@ -17,7 +17,7 @@ cd /Users/fionacai/fresca
 vsce package
 ```
 
-This will create a `.vsix` file like `fresca-vibe-theme-0.0.1.vsix`.
+This will create a `.vsix` file like `fresca-0.0.1.vsix`.
 
 - **3. Install the `.vsix` into VS Code**
   - Open the command palette and run `Extensions: Install from VSIX...`
@@ -25,7 +25,7 @@ This will create a `.vsix` file like `fresca-vibe-theme-0.0.1.vsix`.
 
 - **4. Activate the theme**
   - Open the command palette and run `Preferences: Color Theme`
-  - Pick **“Fresca Vibe”**.
+  - Pick **“Fresca”**.
 
 ### Tuning the vibe
 
