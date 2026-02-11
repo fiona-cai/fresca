@@ -1,4 +1,5 @@
 ## Fresca
+<img width="834" height="459" alt="Screenshot 2026-02-11 at 11 47 54 AM" src="https://github.com/user-attachments/assets/cce7a097-e09e-43d5-8113-e1907bd6d82d" />
 
 A VS Code theme that makes your editor feel like an ice‑cold citrus soda: crisp can, fizzy highlights, and citrusy pops for important things.
 
