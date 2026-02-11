@@ -3,7 +3,7 @@
   "displayName": "Fresca",
   "description": "A bright, fizzy, citrus soda-inspired theme that makes VS Code feel like an ice-cold drink.",
   "version": "0.0.1",
-  "publisher": "your-name-here",
+  "publisher": "fcaiona",
   "engines": {
     "vscode": "^1.90.0"
   },
